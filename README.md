@@ -25,4 +25,4 @@ While I am not planning at the start to use other tools, I will consider cloud c
 
 ## MVP Goal 
 
-TBD
+Show simple regression looking at points as the feature to predict salary from the training set.
