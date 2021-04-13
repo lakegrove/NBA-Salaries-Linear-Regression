@@ -13,8 +13,8 @@ The other dilemma we will have in testing is this data is prediction of salary d
  
 **Residuals**
 
-![Screen Shot 2021-04-12 at 9 33 17 PM](https://user-images.githubusercontent.com/19785958/114488356-d7289600-9bd6-11eb-9e50-db95856f4ccb.png)
 
+![Screen Shot 2021-04-12 at 9 36 31 PM](https://user-images.githubusercontent.com/19785958/114488552-2cfd3e00-9bd7-11eb-998f-304fa3646a6d.png)
 
 Again there seems to be better accuracy around the lower income players (as there is also alot more data for them as they are more common) and salaries become more varied in preidiction as we get to higher paid players
 
